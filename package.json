@@ -6,7 +6,7 @@
   "private": false,
   "scripts": {
     "start": "node index.js",
-    "build"："echo \"build11111\""
+    "build": "echo \"No build needed for static site\""
   },
   "dependencies": {
     "axios": "latest",
